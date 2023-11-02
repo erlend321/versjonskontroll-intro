@@ -1,4 +1,4 @@
--- Versjonskontrollens Reise --
+-- Gits og hubs --
 
 På universitets sti jeg trår,
 Versionskontroll jeg nå skal lære.
@@ -10,9 +10,5 @@ Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
 
-<<<<<<< HEAD
 Dato: 02.11.2023 
-=======
-Dato: 2.November 2023 
->>>>>>> 4a46e2d866ddb73f7625b869cd7188e40b7a8a38
 Universitet: UIT
